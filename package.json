@@ -2,6 +2,10 @@
   "name": "vueplayer",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "email": "nicholaschunrayne@gmail.com",
+    "name": "Nicholaschun"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

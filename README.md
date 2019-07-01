@@ -1,5 +1,5 @@
 # vueplayer
-
+This is a simple and customizable video player built in with vue js
 ## Project setup
 ```
 npm install
@@ -25,5 +25,3 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
